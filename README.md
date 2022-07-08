@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cancerresearch-Riya
 - 👀 I’m interested in Pharma, Healthcare and Biomedical sciences
 - 🌱 I’m currently learning Data Science in Stratified Healthcare and Precision medicine
-- 📫 How to reach me ..
+- 📫 How to reach me .. https://www.linkedin.com/in/rs1212/
 
 <!---
 Cancerresearch-Riya/Cancerresearch-Riya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
